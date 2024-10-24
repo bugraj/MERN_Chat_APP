@@ -12,7 +12,7 @@
     "mern",
     "chat-app"
   ],
-  "author": "Raj",
+  "author": "Raj Kumar Soni",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
